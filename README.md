@@ -8,7 +8,9 @@ J’aime concevoir des interfaces propres, travailler sur des projets concrets e
 ## 🚀 À propos de moi
 
 🎓 Formé en **Développement Web et Web Mobile**, actuellement en parcours **Initiation IA/Data** chez **Simplon**.  
-💼 En recherche d’une **alternance à partir de mars**, avec un rythme **3 semaines entreprise / 1 semaine télétravail formation**.  
+
+💼 En recherche d’une **alternance à partir de mars**, avec un rythme **3 semaines entreprise / 1 semaine télétravail formation**. 
+ 
 💡 J’aime comprendre comment les choses fonctionnent et structurer mes projets proprement pour faire du code propre.  
 
 ---
@@ -53,8 +55,8 @@ Interface complète de gestion des personnages et actions associées.
 
 ## 📈 Stats & outils
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-duchemin&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-duchemin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardstyIe&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HardstyIe&show_icons=true&theme=tokyonight)
 
 ---
 
