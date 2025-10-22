@@ -41,8 +41,30 @@ J’aime concevoir des interfaces propres, travailler sur des projets concrets e
 ### 🔹 **Admin Panel (SvelteKit + Prisma + PostgreSQL)**
 Interface complète de gestion des personnages et actions associées.  
 - Pagination dynamique (25/50/100 résultats)  
-- Actions contextuelles par personnage  
+- Actions contextuelles par personnage
 - Sécurité via les form actions SvelteKit (sans API externe)
+
+### 🔹 **Devatopia (SvelteKit + nodemailer)**
+Refonte UI/UX du site de nos formateur DWWM 
+- Refonte graphique UI/UX
+- Utilisation de nodemailer pour l'envoie des mails  
+- Sécurité via les form actions SvelteKit
+🌐 [Voir la démo](https://portfolio-deva.vercel.app/)
+
+### 🔹 **Weather App (openweatherAPI)**
+Site qui affiche la météo d'un lieu donnée (inscrit physiquement dans le code)
+- Utilisation de openweather pour l'api méteorologique
+- Extraction des données de l'api pour obtenir les informations météo  
+- Affichage des informations en temps réel (refresh toute les 10mins)
+🌐 [Voir la démo](https://weather-app-eight-sigma-31.vercel.app/)
+
+### 🔹 **Application python (Streamlit)**
+Application qui utilise des données json pour afficher des données sur une web app et produire un CSV
+- Utilisation de streamlit pour faire une web app utilisant des données json
+- Extraction des données d'un fichier json. 
+- Ecriture d'un fichier CSV apres calcul de données
+🌐 [Voir la démo](https://brief-simplon.streamlit.app/)
+Le site streamlit est souvent (en pause) n'hésitez pas a cloner le projet pour le voir
 
 ---
 
