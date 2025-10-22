@@ -1,16 +1,15 @@
-## Hi there 👋
+# Profil
 
-<!--
-**HardstyIe/HardstyIe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Cette page profil est en construction.
 
-Here are some ideas to get you started:
+Bienvenue — cette page sert de profil. Le contenu est en cours de création et sera bientôt disponible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Statut : **En construction** 🛠️
+
+À venir :
+- Bio
+- Projets
+- Compétences
+- Moyens de contact
+
+Merci de votre patience.
