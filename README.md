@@ -66,6 +66,11 @@ Application qui utilise des données json pour afficher des données sur une web
 - 🌐 [Voir la démo](https://brief-simplon.streamlit.app/)
 - Le site streamlit est souvent (en pause) n'hésitez pas a cloner le projet pour le voir
 
+### 🔹 **Site Duscman (html/js/css)**
+Création d'un site web a partir d'une maquette données
+- Utilisation d'une maquette de site pour la création du site
+- Intégration multipage (Accueille / Chambre / Contact (fictif) )
+- 🌐 [Voir la démo](https://projet-groupe-ducman.vercel.app/)
 ---
 
 ## ⚡ Ce que j’aime faire
